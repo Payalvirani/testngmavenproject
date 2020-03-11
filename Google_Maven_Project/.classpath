@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.11/junit-4.11.jar" sourcepath="M2_REPO/junit/junit/4.11/junit-4.11-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/DEV_IT_Training/DIT0002/SeleniumJars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/poi-ooxml-schemas-3.6-20091214(1).jar"/>
+	<classpathentry kind="lib" path="C:/Payal Data/PageObjectModeJarlFile/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
